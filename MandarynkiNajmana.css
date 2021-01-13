@@ -1,0 +1,27 @@
+:root {
+    --mandarynki-primary: #634100;
+    --mandarynki-secondary: #584500;
+    --mandarynki-secondary-alt:#f4ab01;
+    --mandarynki-tertiary: #7c6100;
+    --mandarynki-accent-color : #ffd900;
+    --mandarynki-input-box: #584e00;
+    --mandarynki-mention:  #970000;
+    --mandarynki-red: #ff6c5c;
+    --mandarynki-svg: #f4d401;
+    --mandarynki-less-hot: #cc0066;
+
+    --mandarynki-scrollbar-track: var(--mandarynki-primary);
+    --mandarynki-scrollbar-thumb: var(--mandarynki-secondary-alt);
+    
+}
+
+html.theme-light::before {
+    content: "This is a dark mode theme";
+    font-family: Whitney, Helvetica Neue, Helvetica, Arial, sans-serif;
+    color: var(--mandarynki-primary);
+    text-align: center;
+    position: absolute;
+    z-index: 10001;
+    right: 0;
+    left: 0;
+}
