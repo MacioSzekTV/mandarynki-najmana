@@ -4,9 +4,6 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://twitter.com/macioszektv" target="_blank">
-    <img alt="Twitter: macioszektv" src="https://img.shields.io/twitter/follow/macioszektv.svg?style=social" />
-  </a>
 </p>
 
 > Najman je mandarynke! Piękny motyw discord
