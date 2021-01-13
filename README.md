@@ -20,6 +20,6 @@ Go to CUSTOM CSS in Powercord
 
 **MacioSzek TV**
 
-* Website: macioszektv.eu
+* Website: [macioszektv.eu](https://macioszektv.eu)
 * Twitter: [@macioszektv](https://twitter.com/macioszektv)
 * Github: [@macioszektv](https://github.com/macioszektv)
