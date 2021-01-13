@@ -11,7 +11,7 @@
 
 > Najman je mandarynke! Piękny motyw discord
 
-  [Homepage](https://macioszektv.eu/discord-themes)
+[Homepage](https://macioszektv.eu/discord-themes)
 
 ## Install
 Go to CUSTOM CSS in Powercord
@@ -21,7 +21,7 @@ Go to CUSTOM CSS in Powercord
 
 ## Author
 
- **MacioSzek TV**
+**MacioSzek TV**
 
 * Website: macioszektv.eu
 * Twitter: [@macioszektv](https://twitter.com/macioszektv)
