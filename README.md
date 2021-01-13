@@ -13,7 +13,7 @@
 ## Install
 Go to CUSTOM CSS in Powercord
 ```css
-@import url("https://raw.githubusercontent.com/MacioSzekTV/mandarynki-najmana/main/MandarynkiNajmana.css");
+@import url("https://macioszektv.eu/themes/MandarynkiNajmana.css");
 ```
 
 ## Author
